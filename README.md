@@ -1,6 +1,5 @@
 # Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review  
-
-### Overview  
+---
 
 This repository provides the **supplementary materials and extracted data** for the article:  
 
@@ -11,7 +10,8 @@ Oraib Almegdadi<sup>1,2</sup>, Joao Marcelino<sup>2</sup>, Sarah Fakhreddine<sup
 <sup>1</sup> **NOVA LINCS**, Department of Computer Science, NOVA University Lisbon, Portugal  
 <sup>2</sup> **Laboratório Nacional de Engenharia Civil (LNEC)**, Department of Geotechnics, Lisbon, Portugal  
 <sup>3</sup> **Civil and Environmental Engineering**, Carnegie Mellon University, Pittsburgh, USA  
-
+---
+### Overview  
 
 This review **synthesises current research** on the application of **Self-Organizing Maps (SOM)** for assessing and monitoring water quality in lakes and reservoirs. It analyses how SOM has been used to reveal **patterns**, **spatial clusters**, and **ecological gradients** from physicochemical, biological, and watershed parameters, highlighting its role in advancing environmental monitoring and management.  
 
@@ -22,7 +22,6 @@ The study explores five main aspects:
 4. **Advantages and limitations of SOM**  
 5. **Tools and implementation methods**
 
----
 
 ### 📁 Repository Structure  
 
