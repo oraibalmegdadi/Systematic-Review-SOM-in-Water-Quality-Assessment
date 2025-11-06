@@ -1,5 +1,6 @@
 # Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review  
----
+
+
 This repository provides the **supplementary materials and extracted data** for the article:  
 
 **Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review**  
@@ -23,6 +24,13 @@ The study explores five main aspects:
 3. **Spatial and temporal scales**  
 4. **Advantages and limitations of SOM**  
 5. **Tools and implementation methods**
+
+---
+### Visual Abstract 
+![Review Visual Abstract](images/.png)
+
+
+---
 
 
 ### 📁 Repository Structure  
