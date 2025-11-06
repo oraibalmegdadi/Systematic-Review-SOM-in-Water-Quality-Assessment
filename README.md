@@ -27,7 +27,7 @@ The study explores five main aspects:
 
 ---
 ### Visual Abstract 
-![Review Visual Abstract](images/.png)
+![Review Visual Abstract](Abstarct.tif)
 
 
 ---
