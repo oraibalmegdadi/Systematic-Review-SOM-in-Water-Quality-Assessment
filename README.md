@@ -26,9 +26,10 @@ The study explores five main aspects:
 5. **Tools and implementation methods**
 
 ---
-### Visual Abstract 
-![Review Visual Abstract](Abstarct.jpg)
-
+### Visual Abstract
+<p align="center">
+  <img src="Abstract.jpg" alt="Review Visual Abstract" width="800">
+</p>
 
 ---
 
