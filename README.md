@@ -4,18 +4,24 @@
 
 This repository provides the **supplementary materials and extracted data** for the article:  
 
-**Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review**  
-**Authors:**  
+**Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review**  Published in *XXXXX* . [DOI to be added]   by  **Authors:**  
+
 Oraib Almegdadi<sup>1,2</sup>, Joao Marcelino<sup>2</sup>, Sarah Fakhreddine<sup>3</sup>, Joao Manso<sup>2</sup>, and Nuno C. Marques<sup>1</sup>  
 
 <sup>1</sup> **NOVA LINCS**, Department of Computer Science, NOVA University Lisbon, Portugal  
 <sup>2</sup> **Laboratório Nacional de Engenharia Civil (LNEC)**, Department of Geotechnics, Lisbon, Portugal  
 <sup>3</sup> **Civil and Environmental Engineering**, Carnegie Mellon University, Pittsburgh, USA  
 
-Published in *XXXXX* . [DOI to be added]  
 
+This review **synthesises current research** on the application of **Self-Organizing Maps (SOM)** for assessing and monitoring water quality in lakes and reservoirs. It analyses how SOM has been used to reveal **patterns**, **spatial clusters**, and **ecological gradients** from physicochemical, biological, and watershed parameters, highlighting its role in advancing environmental monitoring and management.  
 
-The review systematically analyses studies applying **Self-Organizing Maps (SOM)** for assessing and monitoring water quality in lakes and reservoirs. It explores how SOM supports pattern discovery, spatial clustering, and detection of ecological gradients using physicochemical, biological, and watershed parameters.  
+The study explores five main aspects:  
+1. **Objectives and analysed parameters**  
+2. **Datasets and sampling approaches**  
+3. **Spatial and temporal scales**  
+4. **Advantages and limitations of SOM**  
+5. **Tools and implementation methods**
+
 ---
 
 ### 📁 Repository Structure  
