@@ -1,10 +1,10 @@
-# Systematic Review: Self-Organizing Maps (SOM) in Water Quality Assessment  
+# Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review
 ### Overview  
 This repository provides the **supplementary materials and extracted data** for the article  
 **“Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review”**  
 by **Oraib Almegdadi**, **Joao Marcelino**, **Sarah Fakhreddine**, **Joao Manso**, and **Nuno C. Marques**,  
 affiliated with **NOVA LINCS – NOVA University Lisbon**, **LNEC (Lisbon)**, and **Carnegie Mellon University (Pittsburgh, USA)**.  
-The paper has been published in *Ecological Informatics* (2025).  
+The paper has been published in XXXXXXXXXXXXX [DOI].  
 
 The review systematically analyses studies applying **Self-Organizing Maps (SOM)** for assessing and monitoring water quality in lakes and reservoirs. It explores how SOM supports pattern discovery, spatial clustering, and detection of ecological gradients using physicochemical, biological, and watershed parameters.  
 ---
