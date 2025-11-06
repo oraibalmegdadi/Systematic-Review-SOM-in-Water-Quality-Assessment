@@ -28,7 +28,7 @@ The study explores five main aspects:
 ---
 ### Visual Abstract
 <p align="center">
-  <img src="Abstract.jpg" alt="Review Visual Abstract" width="800">
+  <img src="Abstarct.jpg" alt="Review Visual Abstract" width="800">
 </p>
 
 ---
