@@ -1,15 +1,17 @@
 # Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review  
 ---
-
 This repository provides the **supplementary materials and extracted data** for the article:  
 
-**Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review**  Published in *XXXXX* . [DOI to be added]   by  **Authors:**  
+**Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review**  
+Published in *XXXXX* (DOI to be added)  
 
+**Authors:**  
 Oraib Almegdadi<sup>1,2</sup>, Joao Marcelino<sup>2</sup>, Sarah Fakhreddine<sup>3</sup>, Joao Manso<sup>2</sup>, and Nuno C. Marques<sup>1</sup>  
 
-<sup>1</sup> **NOVA LINCS**, Department of Computer Science, NOVA University Lisbon, Portugal  
-<sup>2</sup> **Laboratório Nacional de Engenharia Civil (LNEC)**, Department of Geotechnics, Lisbon, Portugal  
-<sup>3</sup> **Civil and Environmental Engineering**, Carnegie Mellon University, Pittsburgh, USA  
+<sup>1</sup> NOVA LINCS, Department of Computer Science, NOVA University Lisbon, Portugal  
+<sup>2</sup> Laboratório Nacional de Engenharia Civil (LNEC), Department of Geotechnics, Lisbon, Portugal  
+<sup>3</sup> Civil and Environmental Engineering, Carnegie Mellon University, Pittsburgh, USA  
+
 ---
 ### Overview  
 
