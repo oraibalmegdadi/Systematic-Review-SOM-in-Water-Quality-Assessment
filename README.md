@@ -28,8 +28,9 @@ The study explores five main aspects:
 ---
 ### Visual Abstract
 <p align="center">
-  <img src="https://github.com/oraibalmegdadi/Systematic-Review-SOM-in-Water-Quality-Assessment/blob/main/Images/Abstarct.jpg" alt="Review Visual Abstract" width="800">
+  <img src="https://raw.githubusercontent.com/oraibalmegdadi/Systematic-Review-SOM-in-Water-Quality-Assessment/main/Images/Abstarct.jpg" alt="Review Visual Abstract" width="800">
 </p>
+
 
 ---
 
