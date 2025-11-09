@@ -60,7 +60,7 @@ The supplementary Excel file [`SupplementaryMaterial-Parameters.xlsx`](https://g
 | **Unified Parameter Name** | **Synonyms / Acronyms** | **Unified Acronym (Treemap)** | **Frequency** | **Classification** |
 |-----------------------------|--------------------------|-------------------------------|----------------|--------------------|
 | Phosphorus | P, Pₜ, Pₐ, PₜD, Tₚₚ, PO₄³⁻ | P | 21 | Nutrients and Oxygen Demand |
-| Water Temperature | Tₜʷ | Tₜʷ | 20 | Physicochemical |
+| Water Temperature | Tw | Tw | 20 | Physicochemical |
 | Chlorophyll-a | Chl-a | Chl-a | 19 | Physicochemical |
 
 
