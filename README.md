@@ -16,7 +16,7 @@ Oraib Almegdadi<sup>1,2</sup>, Joao Marcelino<sup>2</sup>, Sarah Fakhreddine<sup
 ---
 ### Overview  
 
-This review **synthesises current research** on the application of **Self-Organizing Maps (SOM)** for assessing and monitoring water quality in lakes and reservoirs. It analyses how SOM has been used to reveal **patterns**, **spatial clusters**, and **ecological gradients** from physicochemical, biological, and watershed parameters, highlighting its role in advancing environmental monitoring and management.  
+This review **systematically discusses current research** on the application of **Self-Organizing Maps (SOM)** for assessing and monitoring water quality in lakes and reservoirs. It analyses how SOM has been used to reveal **patterns**, **spatial clusters**, and **ecological gradients** from physicochemical, biological, and watershed parameters, highlighting its role in advancing environmental monitoring and management.  
 
 The study explores five main aspects:  
 1. **Objectives and analysed parameters**  
