@@ -55,6 +55,15 @@ The supplementary Excel file [`SupplementaryMaterial-Parameters.xlsx`](https://g
 | Ammoniacal Nitrogen | NH₃-N |
 | Ammonium Nitrogen | NH₄⁺ |
 
+#### Example (Sheet 2 – UnifiedParAcr-Freq-Class)
+
+| **Unified Parameter Name** | **Synonyms / Acronyms** | **Unified Acronym (Treemap)** | **Frequency** | **Classification** |
+|-----------------------------|--------------------------|-------------------------------|----------------|--------------------|
+| Phosphorus | P, Pₜ, Pₐ, PₜD, Tₚₚ, PO₄³⁻ | P | 21 | Nutrients and Oxygen Demand |
+| Water Temperature | Tₜʷ | Tₜʷ | 20 | Physicochemical |
+| Chlorophyll-a | Chl-a | Chl-a | 19 | Physicochemical |
+
+
 Full dataset available at:  
 📄 [SupplementaryMaterial-Parameters.xlsx](https://github.com/oraibalmegdadi/Systematic-Review-SOM-in-Water-Quality-Assessment/blob/main/Materials/SupplementaryMaterial-Parameters.xlsx)
 #### **File 2 – Metadata**
