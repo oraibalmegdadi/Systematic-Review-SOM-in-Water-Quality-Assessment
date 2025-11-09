@@ -38,7 +38,7 @@ The study explores five main aspects:
 ### 📁 Repository Structure  
 
 #### **File 1 – Parameters**
-**`Parameters.xlsx`** contains two sheets:  
+**`SupplementaryMaterial-Parameters.xlsx`** contains two sheets:  
 - **Sheet 1: `Parameters-Acronym-Alphabet`**  
   Lists all environmental and water quality parameters extracted from the reviewed studies, arranged alphabetically with their corresponding acronyms.  
 - **Sheet 2: `UnifiedParAcr-Freq-Class`**  
