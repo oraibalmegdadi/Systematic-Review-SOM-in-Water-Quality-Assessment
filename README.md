@@ -36,14 +36,27 @@ The study explores five main aspects:
 
 
 ### 📁 Repository Structure  
+### Supplementary Material: Parameters
 
-#### **File 1 – Parameters**
-**`SupplementaryMaterial-Parameters.xlsx`** contains two sheets:  
-- **Sheet 1: `Parameters-Acronym-Alphabet`**  
-  Lists all environmental and water quality parameters extracted from the reviewed studies, arranged alphabetically with their corresponding acronyms.  
-- **Sheet 2: `UnifiedParAcr-Freq-Class`**  
-  Aggregates parameters into unified groups, showing synonyms/acronyms, frequency of occurrence, and their classification (e.g., Nutrients and Oxygen Demand, Metals/Metalloids, Physicochemical, etc.).
+The supplementary Excel file [`SupplementaryMaterial-Parameters.xlsx`](https://github.com/oraibalmegdadi/Systematic-Review-SOM-in-Water-Quality-Assessment/blob/main/Materials/SupplementaryMaterial-Parameters.xlsx) contains two sheets:
 
+| **Sheet** | **Name** | **Description** |
+|------------|-----------|----------------|
+| 1 | `Parameters-Acronym-Alphabet` | Lists all environmental and water-quality parameters extracted from the reviewed studies, arranged alphabetically with their corresponding acronyms. |
+| 2 | `UnifiedParAcr-Freq-Class` | Aggregates parameters into unified groups, showing synonyms/acronyms, frequency of occurrence, and thematic classification (e.g., Nutrients and Oxygen Demand, Metals/Metalloids, Physicochemical). |
+
+#### Example (Sheet 1 – Parameters-Acronym-Alphabet)
+
+| **Parameter** | **Acronym** |
+|----------------|-------------|
+| Alkalinity | ALK |
+| Aluminum | Al |
+| Ammonia nitrogen | N-NH₄ |
+| Ammoniacal Nitrogen | NH₃-N |
+| Ammonium Nitrogen | NH₄⁺ |
+
+Full dataset available at:  
+📄 [SupplementaryMaterial-Parameters.xlsx](https://github.com/oraibalmegdadi/Systematic-Review-SOM-in-Water-Quality-Assessment/blob/main/Materials/SupplementaryMaterial-Parameters.xlsx)
 #### **File 2 – Metadata**
 **`Metadata_Articles.xlsx`** contains two sheets:  
 - **Sheet 1: `Articles-Metadata`**  
