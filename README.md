@@ -36,14 +36,16 @@ The study explores five main aspects:
 ### Catalogue of All Included Studies Published up to December 2024
 The following table presents all primary studies retrieved through the structured search query and selected after applying the inclusion and exclusion criteria. These studies, published up to December 2024, are categorised thematically and collectively address surface water quality in lakes and reservoirs.
 
-| Title | Full Citation | Category | Link |
-|-------|---------------|----------|------|
+| Title | Full Citation | Category |Link|
+|-------|---------------|----------|---|
 | Diagnosing reservoir water quality using self-organizing maps and fuzzy theory | Lu, R.S., Lo, S.L., 2002. Diagnosing reservoir water quality using self-organizing maps and fuzzy theory. *Water Research* 36, 2265–2274. | Nutrient Enrichment and Algal Blooms | [link](https://doi.org/10.1016/S0043-1354(01)00449-3)|
 | Analysis of algal bloom risk with uncertainties in lakes by integrating self-organizing map and fuzzy information theory| Chen, Q., Rui, H., Li, W., Zhang, Y., 2014. Analysis of algal bloom risk with uncertainties in lakes by integrating SOM and fuzzy information theory. *Science of The Total Environment* 482–483, 318–324. | Nutrient Enrichment and Algal Blooms | [link](https://doi.org/10.1016/j.scitotenv.2014.02.096) |
 | Evaluation of environmental factors on cyanobacterial bloom in eutrophic reservoir using artificial neural networks | Ahn, C.Y., Oh, H.M., Park, Y.S., 2011. Evaluation of environmental factors on cyanobacterial bloom in eutrophic reservoir using ANN. *Journal of Phycology* 47, 495–504. | Nutrient Enrichment and Algal Blooms | [link](https://pubmed.ncbi.nlm.nih.gov/27021978/) |
 | SOM clustering of 21-year data of a small pristine boreal lake | Voutilainen, A., Arvola, L., 2017. SOM clustering of 21-year data of a small pristine boreal lake. *Knowledge & Management of Aquatic Ecosystems*, 36. | Nutrient Enrichment and Algal Blooms | [link](	https://doi.org/10.1051/kmae/2017027) |
-| Eutrophication & heavy metal pollution patterns | Guo, C., et al., 2020. Eutrophication and heavy metal pollution patterns in the water supplying lakes of China’s South-to-North Water Diversion Project. *Science of The Total Environment* 711, 134543. | Nutrient Enrichment and Algal Blooms | https://doi.org/10.1016/j.scitotenv.2019.134543 |
-| Plankton diatom dynamics using SOM (Lake Geneva) | Rimet, F., Druart, J.C., Anneville, O., 2009. Exploring plankton diatom dynamics in Lake Geneva using emergent SOMs. *Ecological Informatics* 4, 99–110. | Nutrient Enrichment and Algal Blooms | https://doi.org/10.1016/j.ecoinf.2009.01.006 |
+| Eutrophication and heavy metal pollution patterns in the water suppling lakes of China’s south-to-north water diversion project | Guo, C., et al., 2020. Eutrophication and heavy metal pollution patterns in the water supplying lakes of China’s South-to-North Water Diversion Project. *Science of The Total Environment* 711, 134543. | Nutrient Enrichment and Algal Blooms | [link](https://doi.org/10.1016/j.scitotenv.2019.134543) |
+
+| Exploring the dynamics of plankton diatom communities in Lake Geneva using emergent self-organizing maps (1974–2007) | Rimet, F., Druart, J.C., Anneville, O., 2009. Exploring the dynamics of plankton diatom communities in Lake Geneva using emergent self-organizing maps (1974–2007).  *Ecological Informatics* 4, 99–110. | Nutrient Enrichment and Algal Blooms | [link](https://doi.org/10.1016/j.ecoinf.2009.01.006) |
+
 | Eutrophication parameters assessment using SOM | Hadjisolomou, E., et al., 2018. Assessment of eutrophication-related environmental parameters in Mediterranean lakes using SOM. *IJERPH* 15, 547. | Nutrient Enrichment and Algal Blooms | https://doi.org/10.3390/ijerph15030547 |
 | Phytoplankton dynamics using unsupervised ANN | Recknagel, F., Talib, A., van der Molen, D., 2006. Phytoplankton community dynamics in eutrophic Dutch lakes. *Ecological Informatics* 1, 277–285. | Nutrient Enrichment and Algal Blooms | https://doi.org/10.1016/j.ecoinf.2006.05.003 |
 | Algal bloom risk clustering (Maninjau Lake) | Sudriani, Y., Sunaryani, A., 2017. SOM as cluster modelling tool of algal bloom risk in Maninjau Lake. | Nutrient Enrichment and Algal Blooms | N/A |
@@ -72,6 +74,8 @@ The following table presents all primary studies retrieved through the structure
 | E. coli bloom modelling using ML | Bertone, E., et al., 2019. Understanding E. coli bloom occurrence. *Water Resources Research* 55, 10518–10526. | Microbial Monitoring | https://doi.org/10.1029/2019WR025770 |
 | Macrophytes shaping invertebrate distribution | Son, S.H., et al., 2021. Invertebrate distribution in reservoirs. *Water* 13, 1455. | Microbial Monitoring | https://doi.org/10.3390/w13111455 |
 | Diversity of benthic macroinvertebrates | Lee, D.Y., et al., 2022. Macroinvertebrates in reservoirs. *IJERPH* 20, 673. | Microbial Monitoring | https://doi.org/10.3390/ijerph20010673 |
+
+
 
 ---
 
