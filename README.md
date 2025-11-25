@@ -33,7 +33,8 @@ The study explores five main aspects:
 
 
 ---
-### Visual Abstract
+### Catalogue of All Included Studies Published up to December 2024
+The following table presents all primary studies retrieved through the structured search query and selected after applying the inclusion and exclusion criteria. These studies, published up to December 2024, are categorised thematically and collectively address surface water quality in lakes and reservoirs.
 
 | Title | Full Citation | Category | Link |
 |-------|---------------|-----------|-------|
