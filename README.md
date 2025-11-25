@@ -38,7 +38,7 @@ The following table presents all primary studies retrieved through the structure
 
 | Title | Full Citation | Category | Link |
 |-------|---------------|----------|------|
-| Diagnosing reservoir water quality using SOM + fuzzy theory | Lu, R.S., Lo, S.L., 2002. Diagnosing reservoir water quality using self-organizing maps and fuzzy theory. *Water Research* 36, 2265–2274. | Nutrient Enrichment and Algal Blooms | https://doi.org/10.1016/S0043-1354(01)00449-3 |
+| Diagnosing reservoir water quality using self-organizing maps and fuzzy theory | Lu, R.S., Lo, S.L., 2002. Diagnosing reservoir water quality using self-organizing maps and fuzzy theory. *Water Research* 36, 2265–2274. | Nutrient Enrichment and Algal Blooms | [link](https://doi.org/10.1016/S0043-1354(01)00449-3)|
 | Algal bloom risk analysis using SOM + fuzzy info theory | Chen, Q., Rui, H., Li, W., Zhang, Y., 2014. Analysis of algal bloom risk with uncertainties in lakes by integrating SOM and fuzzy information theory. *Science of The Total Environment* 482–483, 318–324. | Nutrient Enrichment and Algal Blooms | https://doi.org/10.1016/j.scitotenv.2014.02.096 |
 | Cyanobacterial bloom evaluation using ANN | Ahn, C.Y., Oh, H.M., Park, Y.S., 2011. Evaluation of environmental factors on cyanobacterial bloom in eutrophic reservoir using ANN. *Journal of Phycology* 47, 495–504. | Nutrient Enrichment and Algal Blooms | https://doi.org/10.1111/j.1529-8817.2011.00986.x |
 | SOM clustering of pristine boreal lake (21 years) | Voutilainen, A., Arvola, L., 2017. SOM clustering of 21-year data of a small pristine boreal lake. *Knowledge & Management of Aquatic Ecosystems*, 36. | Nutrient Enrichment and Algal Blooms | https://doi.org/10.1051/kmae/2017012 |
