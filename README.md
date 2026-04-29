@@ -4,7 +4,7 @@
 This repository provides the **supplementary materials and extracted data** for the article:  
 
 **Self-Organizing Maps for Water Quality Assessment in Reservoirs and Lakes: A Systematic Literature Review**  
-Published in *XXXXX* (DOI to be added)  
+Published in *Ecological Informatics- Elsevier* (https://doi.org/10.1016/j.ecoinf.2025.103542)  
 
 **Authors:**  
 Oraib Almegdadi<sup>1,2</sup>, Joao Marcelino<sup>2</sup>, Sarah Fakhreddine<sup>3</sup>, Joao Manso<sup>2</sup>, and Nuno C. Marques<sup>1</sup>  
@@ -108,5 +108,14 @@ These materials support reproducibility and transparency in literature-based ana
 ---
 
 ### 📄 Citation  
+Almegdadi, O., Marcelino, J., Fakhreddine, S., Manso, J., & Marques, N. C. (2025). Self-organizing maps for water quality assessment in reservoirs and lakes: A systematic literature review. Ecological Informatics, 103542.
 
 
+@article{almegdadi2025self,
+  title={Self-organizing maps for water quality assessment in reservoirs and lakes: A systematic literature review},
+  author={Almegdadi, Oraib and Marcelino, Jo{\~a}o and Fakhreddine, Sarah and Manso, Joao and Marques, Nuno C},
+  journal={Ecological Informatics},
+  pages={103542},
+  year={2025},
+  publisher={Elsevier}
+}
